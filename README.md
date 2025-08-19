@@ -27,6 +27,6 @@ Methodology: Logistic Regression and data analysis techniques were used to train
 
 Technologies Used
 
-Python: For data processing and model development using libraries like Pandas, Scikit-Learn, and Matplotlib.
+Python: For data processing and model development using libraries like Pandas, Scikit-Learn
 
 Jupyter Notebook: For exploratory data analysis and model evaluation.
